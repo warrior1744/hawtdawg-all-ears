@@ -23,3 +23,5 @@ Hi Addison, as we have talked about the amending with my profile again, I'd like
 =======
 Hi Sangita, there are some new skills requirements for you
 >>>>>>> origin/sangita-add-profile
+
+## Hi Addison, thanks for your efforts, it's finished, love you forever.
